@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>80BF2B4F-0B21-4DCD-8011-86F04ABBA387</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80BF2B4F-0B21-4DCD-8011-86F04ABBA387.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>chatApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>chatApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archive chatApp</string>
+			<key>timeStartedRecording</key>
+			<real>596862027.44042003</real>
+			<key>timeStoppedRecording</key>
+			<real>596862264.76921105</real>
+			<key>title</key>
+			<string>Archive chatApp</string>
+			<key>uniqueIdentifier</key>
+			<string>80BF2B4F-0B21-4DCD-8011-86F04ABBA387</string>
+		</dict>
+		<key>A6A612EE-A231-4456-89D0-15A6F5A890DA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6A612EE-A231-4456-89D0-15A6F5A890DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>chatApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>chatApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build chatApp</string>
+			<key>timeStartedRecording</key>
+			<real>596470230.448506</real>
+			<key>timeStoppedRecording</key>
+			<real>596470232.75927198</real>
+			<key>title</key>
+			<string>Build chatApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A6A612EE-A231-4456-89D0-15A6F5A890DA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

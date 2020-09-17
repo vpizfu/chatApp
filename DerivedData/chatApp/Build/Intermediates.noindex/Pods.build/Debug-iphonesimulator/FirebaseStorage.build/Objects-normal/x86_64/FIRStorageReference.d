@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/FIRStorageReference.m \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/DerivedData/chatApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageReference.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorage.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageConstants.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageDownloadTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageObservableTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageMetadata.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageListResult.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageUploadTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageConstants_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageDeleteTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageDownloadTask_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageGetDownloadURLTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageGetMetadataTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageListResult_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageListTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageMetadata_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageReference_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStoragePath.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Public/FIRStorageTaskSnapshot.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTaskSnapshot_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageTask_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageErrors.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUtils.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/DerivedData/chatApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/Target\ Support\ Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUpdateMetadataTask.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorageUploadTask_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseStorage/Firebase/Storage/Private/FIRStorage_Private.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/DerivedData/chatApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/romankharchenko/Desktop/chatApp/chatApp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h

@@ -1,0 +1,33 @@
+
+"Чаты" = "Chats";
+"Звонки" = "Calls";
+"Контакты" = "Contacts";
+"Настройки" = "Settings";
+"Фото" = "Photo";
+"Люди, группы и сообщения" = "People, groups and messages";
+"Login" = "Login";
+"Registration" = "Registration";
+"Name" = "Name";
+"E-mail" = "Почта";
+"Password" = "Password";
+"Ошибка!" = "Error!";
+"Такого аккаунта не существует!" = "This account does not exist!";
+"Cancel" = "Cancel";
+"Введите сообщение" = "Enter message";
+"Изм." = "Edit";
+"Уведомление и звуки" = "Notification and Sounds";
+"Конфидециальность" = "Confidentiality";
+"Данные и память" = "Data and memory";
+"Оформление" = "Decor";
+"Язык" = "Language";
+"Избранное" = "Favorites";
+"Помощь" = "Help";
+"Вопросы о DARO" = "Questions about DARO";
+"Добавить контакт" = "Add contact";
+"Введите e-mail пользователя" = "Enter user phone number";
+"Прим: test@gmail.com" = "Exmaple: +79217807672";
+"Нельзя добавить себя в контакты!" = "You can’t add yourself to your contacts!";
+"Контакт успешно добавлен!" = "Contact successfully added!";
+"Такого пользователя не существует!" = "There is no such user!";
+"Контакт уже есть в вашей базе!" = "Contact is already in your database!";
+
